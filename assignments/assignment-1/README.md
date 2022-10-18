@@ -30,7 +30,7 @@ The analogy in the game of Monopoly is that the Banker is a single point of fail
 
 It is possible that in a decentralized system, the majority of players can collude to disadvantage a single player since there are no centralized authorities such as the Banker. However, given a large enough pool of random players, the liklihood of such an event taking place is smaller.
 
-One way to prevent a 51% attack [2] external players which are only incentivized to validate. For example, such external players can take a 2% earning for providing honest answers about what is taking place in the game. They can also put up a stake of X dollars which can be taken away if their provide answers against other validators.
+One way to prevent a 51% attack [2] is introducing external players which are only incentivized to validate and do not play the game. For example, such external players can take a X% of earnings for providing honest answers about what is taking place in the game. They can also put up a stake of in-game dollars which can be taken away if their provide answers against majority of other validators.
 
 ---
 
